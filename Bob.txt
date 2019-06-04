@@ -4,4 +4,5 @@ Add 3rd line
 Add 4rd line
 Add 5th line
 Add 6th line
+Add 7th line from master
 Hi merge test for bob
