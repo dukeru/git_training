@@ -3,3 +3,4 @@ Hi it's 2nd line of Alice
 Hi Merge test for Alice
 Alice 4 in master
 Alice 5 by other user
+Alice 6 by other user
